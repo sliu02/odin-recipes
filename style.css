@@ -35,3 +35,9 @@ body {
     width: 25%;
     background-color: yellow;
 }
+
+.space {
+    width: auto;
+    height: 5px;
+    display: inline-block;
+}
